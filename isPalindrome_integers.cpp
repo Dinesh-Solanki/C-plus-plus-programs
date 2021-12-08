@@ -2,6 +2,9 @@
 
 using namespace std;
 
+
+//Function to reverse a given number
+
 int reverse_num(int num){
     int rev = 0;
     while(num != 0){
